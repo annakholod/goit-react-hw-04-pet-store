@@ -1,0 +1,35 @@
+.sectionPet {
+  margin: 0 30px;
+}
+
+.petName {
+  color: #535353;
+}
+
+.petFeatures {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.petImg {
+  margin-right: 30px;
+  width: 400px;
+}
+
+.featuresDecor {
+  font-weight: 700;
+  color: #535353;
+}
+
+.btnReturn {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  margin-top: 30px;
+  padding: 10px 30px 10px 20px;
+  color: #fff;
+  background-color: #817c7c;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}

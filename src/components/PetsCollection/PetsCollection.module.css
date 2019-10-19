@@ -1,0 +1,15 @@
+.sectionPetsCollection {
+  margin: 0 30px;
+}
+
+.petsCollectionTitle {
+  color: #535353;
+}
+
+.petsCollectionList {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px 0;
+  padding: 0;
+}

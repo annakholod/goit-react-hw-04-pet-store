@@ -1,0 +1,31 @@
+.petsCollectionItem {
+  margin-bottom: 30px;
+  width: 400px;
+  list-style: none;
+}
+
+.petsCollectionItem:hover,
+.petsCollectionItem:focus {
+  box-shadow: 0 0 3px #525151;
+}
+
+.petsCollectionLink {
+  text-decoration: none;
+}
+
+.imgOverlay {
+  padding: 30px;
+}
+
+.petsName {
+  margin: 0 0 10px 0;
+  padding: 0;
+  text-align: center;
+  color: #535353;
+  font-size: 24px;
+}
+
+.petsCollectionItem:hover .petsName,
+.petsCollectionItem:focus .petsName {
+  color: #d83232;
+}
